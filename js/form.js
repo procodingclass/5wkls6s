@@ -5,8 +5,8 @@ class Form {
     this.greetings = createElement("h2");
   }
   display() {
-     this.input.position(displayWidth / 2 - 115, displayHeight / 2 - 200);
-     this.input.size(180, 30);
+     this.input.position(380, 180);
+    this.input.size(180, 30);
   
   }
   
